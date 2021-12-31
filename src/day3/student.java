@@ -1,7 +1,7 @@
 package day3;
 
 public class student {
-    static String name;
+    public static String name;
 
     public void playing() {
         System.out.println(student.name + " is playing...");
